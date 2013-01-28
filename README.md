@@ -30,7 +30,7 @@ Personally I find the behaviour of `nc` annoying so I leave it blank, check `:he
 Greek letters
 -------------
 
-	By default matnicer will process only matlab keywords ( function, end, ...), built-in functions (sum, mean , ...) and built-in constants ( pi, eps,...). You may find useful to coceal also greek letters if your algorithms use variables such as alpha or omega. To achieve this just set `g:matnicer_greek` to true in your `.vimrc`:
+By default matnicer will process only matlab keywords ( function, end, ...), built-in functions (sum, mean , ...) and built-in constants ( pi, eps,...). You may find useful to coceal also greek letters if your algorithms use variables such as alpha or omega. To achieve this just set `g:matnicer_greek` to true in your `.vimrc`:
 
 	let g:matnicer_greek=1
 
@@ -41,6 +41,8 @@ Screenshot
 
 ![Screenshot](http://github.com/capitancambio/vim-matnicer/raw/master/screenshot.png)
 
+License
+-------
 "THE BEER-WARE LICENSE" (Revision 42):
 <capitan.cambio@gmail.com> wrote this file. As long as you retain this notice you
 can do whatever you want with this stuff. If we meet some day, and you think
